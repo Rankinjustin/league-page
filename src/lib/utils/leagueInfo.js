@@ -8,9 +8,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to the 386 Dynasty League Website. There are quite a few adjustments and changes that will need to be made, time permitting, to get this fully looking BEAUtiful.</p>
-  <p>There is an issue with the manager page as of right now. Seems to be an issue with that one pair of god damn co-managers. ;)</p>
+  <p>There is an issue with the manager page as of right now. Seems to be an issue with that one pair of god damn co-managers. ;) I will also need to update the League Constitution to reflect what our's actual is. Just some busy work that I need to get done yet.</p>
   <p>As I slowly work towards getting this into an end state project, users from the league will have the ability to add their own blog posts to the website. Some of you fools might get banned from writing your own shit, but we'll cross that path when it gets there.</p>
-  <p>I will also need to update the League Constitution to reflect what our's actual is. Just some busy work that I need to get done yet.</p>
+  <p>If you have any suggestions just let me know!</p>
 `;
 
 /*   STEP 3   */
